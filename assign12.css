@@ -1,0 +1,16 @@
+/* Assign1.css */
+/* Starting with Global Indicator */
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* padding: 10px 100px; */
+    width: 1200px;
+    margin: auto;
+}
+
+header, nav, main, footer{
+    margin: 33px;
+}
